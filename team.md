@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 ##President, Dr. Kavita Kapur
-<img class="team-photo" align="right" src="/img/Kavita.png">
+<img class="team-photo" align="right" src="{{ site.baseurl }}/img/Kavita.png">
 
 <p class="team-bio">
 <em>Visiting Scholar at Universidad Adolfo Ibañez<br>
@@ -42,7 +42,7 @@ work in Chile by Mujer Opina, an NGO.
 </p>
 
 ##Managing Director, Ambassador Pradeep Kumar Kapur, IFS
-<img class="team-photo" align="right" src="/img/Pradeep.png">
+<img class="team-photo" align="right" src="{{ site.baseurl }}/img/Pradeep.png">
 
 <p class="team-bio">
 <em>Former Ambassador and Secretary, IFS, Govt. of India <br>
@@ -78,7 +78,7 @@ in English, French, Spanish and some Indian languages.
 </p>
 
 ##Director, C.P. Srivastava
-<img class="team-photo" align="right" src="/img/Srivastava.png">
+<img class="team-photo" align="right" src="{{ site.baseurl }}/img/Srivastava.png">
 
 <p class="team-bio">
 <em>28 years of professional experience in government, autonomous
@@ -109,7 +109,7 @@ Asia-Pacific, Russia, and the Middle East.
 </p>
 
 ##Director, Ar. Deepali Srivastava
-<img class="team-photo" align="right" src="/img/Deepali.png">
+<img class="team-photo" align="right" src="{{ site.baseurl }}/img/Deepali.png">
 
 <p class="team-bio">
 <em>25 years of professional experience in all aspects of architectural design,
