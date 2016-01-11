@@ -41,7 +41,7 @@ was awarded for “Empowerment of Women, 2013” for her social and professional
 work in Chile by Mujer Opina, an NGO.
 </p>
 
-##Managing Director, Ambassador Pradeep Kumar Kapur, IFS
+##Honorary Chairman, Ambassador Pradeep Kumar Kapur, IFS
 <img class="team-photo" align="right" src="{{ site.baseurl }}/img/Pradeep.png">
 
 <p class="team-bio">
@@ -102,7 +102,7 @@ Unit Managing Director of Distribution Transformer Business Unit;<br>
 Regional Vice President - Service at Alstom Grid.<br>
 He developed Voltamp Energy, an Omani company as a fast track, successful and
 sustainable model for the MENA Region and is currently providing leadership to
-DCS Group, having presence in Infrastructure, Consulting, and Hospitality. 
+DCS Group, having presence in Infrastructure, Consulting, and Hospitality.
 Srivastava is a member of many national and international bodies on business
 excellence and performance improvement. He travelled to America, Europe,
 Asia-Pacific, Russia, and the Middle East.
