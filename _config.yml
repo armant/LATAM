@@ -12,8 +12,3 @@ markdown: kramdown
 
 gems:
   - jekyll-redirect-from
-
-gallery_dir: photos
-galleries:
-  gallery:
-    best_image: 10845691_10202340735958181_5752337964837659326_o.jpg
