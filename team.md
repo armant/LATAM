@@ -129,3 +129,18 @@ Director of DCS Infrastructure Pvt. Ltd. for last  13 years;<br>
 Architect at several central and state level government organizations;<br>
 Promoter of Nirkaam Foundation.
 </p>
+
+##Associate, Deeptanshu Kannan Kapur
+<img class="team-photo" align="right" src="{{ site.baseurl }}/img/Deep.png">
+
+<p class="team-bio">
+Deeptanshu Kapur currently serves as an Associate at India Latam Associates.
+Deeptanshu is completing the Jerome Fisher Program in Management and Technology
+at the University of Pennsylvania, studying Management and Computer Science. His
+professional experiences include working in Investment Banking (Mergers and
+Acquisitions), Sales and Trading, and technology startups, and has worked in
+Chile, India and the USA. After graduating, he will be joining Microsoft as a
+Program Manager. Currently, he also serves as the Co-curator of TEDxPenn and
+Co-founder of Turniture. His interests include investing, artificial
+intelligence, chess, cricket and Indian classical music.
+</p>
