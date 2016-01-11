@@ -12,10 +12,3 @@ markdown: kramdown
 
 gems:
   - jekyll-redirect-from
-
-gallerytag:
-    dir: img/gallery
-    url: /photos
-    thumb_width: 150
-    thumb_height: 150
-    columns: 4
