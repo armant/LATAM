@@ -10,8 +10,7 @@ and social organizations with the focus on Pacific Alliance and Latin American
 Trade Bloc comprising of Chile, Mexico, Peru, and Columbia.
 
 IndiaLATAM is a global partner that promotes cross-cultural,
-commercial, and economic development of the two regions. Our skills encompass a
-complete range of advisory and assurance services in the areas of _. We are a
+commercial, and economic development of the two regions. We are a
 well managed organization supported by experienced and dedicated diplomat,
 bureaucrat, academician, historian, and other professionals.
 
