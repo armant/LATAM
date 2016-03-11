@@ -8,28 +8,26 @@ permalink: /team/
 <img class="team-photo" align="right" src="{{ site.baseurl }}/img/Kavita.png">
 
 <p class="team-bio">
-<em>Visiting Scholar at Universidad Adolfo Ibañez<br>
-Silver Spring, Maryland Human Resources</em>
-</p>
-
-<p class="team-bio">
-Kavita Kapur has a PhD in Organizational Behaviour from Management Development
-Institute (MDI), India. She has been teaching management courses at the Adolfo
-Ibanez School of Management, Chile; Pannashastra University, Cambodia; and
-Kathmandu University, Nepal. An HR professional with more than 20 years of
-experience, Kavita has worked as an HR Manager in multi-national corporations
-and as a Management Trainer and Change Management Consultant in HR,
-Organizational Development, and Total Quality Management in management
-consulting organizations. She is deeply committed to development, learning and
-research in the field of Human Resources Management. Teaching university-level
-courses in various countries along with research in the area of multicultural
-teams and diversity has further strengthened her knowledge and understanding of
-working in different cultures. The varied experience of being a practitioner,
-consultant, trainer and researcher has given her a unique blend of skills and
-competencies as a professional in Organizational Behavior. Her current research
-interests are in the area of geographically dispersed multicultural teams, team
-diversity, cross cultural management, and expatriate adjustment. Besides, having
-lived and worked in various countries (France, Nepal, Cambodia, India and
+Dr Kavita Kapur has a PhD in Organizational Behaviour from Management
+Development Institute (MDI), India. She has more than 20 years of work
+experience, as a consultant, executive coach, trainer and faculty in Management
+and  Organizational Behaviour. Her consultancy work has been primarily in the
+area of Management of Change, Organizational Development, Leadership, Cultural
+Sensitivity, Diversity and Inclusion.  She has a wide range of practical
+experience and managerial consultancy skills with a global perspective having
+worked in India, Nepal, Cambodia and Chile. Research in deep level diversity and
+personal experience of living in different countries have further honed her
+skills of facilitating the development of  multicultural bonds and leveraging
+diversity through building cultural competence, using processes of  appreciative
+inquiry, networking and enhancing cultural sensitivity.
+She has worked as an HR Manager in multi-national corporations, such as Xerox
+and Apollo Tyres, and as a Management Trainer and Change Management Consultant
+in HR, Organizational Development, and Total Quality Management in management
+consulting organizations such as Eicher Consultancy and Grow Talent.
+She has been teaching management courses at the Adolfo Ibanez School of
+Management, Chile; Pannashastra University, Cambodia; and Kathmandu University,
+Nepal ans Bowie State University, Maryland, USA.
+Having lived and worked in various countries (France, Nepal, Cambodia, India and
 Chile), she has obtained a wide range of practical experience and skills with a
 global perspective. As a spouse of an Indian diplomat, she was actively involved
 in organizing various social, cultural and National Day events in host countries
