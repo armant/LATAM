@@ -4,7 +4,7 @@ title: Executive team
 permalink: /team/
 ---
 
-##President, Dr. Kavita Kapur
+## President, Dr. Kavita Kapur
 <img class="team-photo" align="right" src="{{ site.baseurl }}/img/Kavita.png">
 
 <p class="team-bio">
@@ -39,7 +39,7 @@ was awarded for “Empowerment of Women, 2013” for her social and professional
 work in Chile by Mujer Opina, an NGO.
 </p>
 
-##Honorary Chairman, Ambassador Pradeep Kumar Kapur, IFS
+## Honorary Chairman, Ambassador Pradeep Kumar Kapur, IFS
 <img class="team-photo" align="right" src="{{ site.baseurl }}/img/Pradeep.png">
 
 <p class="team-bio">
@@ -75,7 +75,7 @@ Literature in Spanish from Complutense University, Madrid, Spain. He is fluent
 in English, French, Spanish and some Indian languages.
 </p>
 
-##Director, C.P. Srivastava
+## Director, C.P. Srivastava
 <img class="team-photo" align="right" src="{{ site.baseurl }}/img/Srivastava.png">
 
 <p class="team-bio">
@@ -106,7 +106,7 @@ excellence and performance improvement. He travelled to America, Europe,
 Asia-Pacific, Russia, and the Middle East.
 </p>
 
-##Director, Ar. Deepali Srivastava
+## Director, Ar. Deepali Srivastava
 <img class="team-photo" align="right" src="{{ site.baseurl }}/img/Deepali.png">
 
 <p class="team-bio">
@@ -128,7 +128,7 @@ Architect at several central and state level government organizations;<br>
 Promoter of Nirkaam Foundation.
 </p>
 
-##Associate, Deeptanshu Kannan Kapur
+## Associate, Deeptanshu Kannan Kapur
 <img class="team-photo" align="right" src="{{ site.baseurl }}/img/Deep.png">
 
 <p class="team-bio">
